@@ -10,8 +10,8 @@ This project explores the key differences between casual and professional commun
 
 | File | Description |
 |------|-------------|
-| [Global Graduation Project.docx](./docs/Global%20Graduation%20Project.docx) | Detailed written report on professional communication research |
-| [Presentation Slides (PPTX)](./presentation/GGProject_presentation.pptx) | Final team presentation used in class |
+| [Global Graduation Project.docx](https://github.com/Saich6/professional-communication-research/blob/main/Global%20Graduation%20Project.docx) | Detailed written report on professional communication research |
+| [Presentation Slides (PPTX)](https://github.com/Saich6/professional-communication-research/blob/main/GGProject_presentation.pptx) | Final team presentation used in class |
 
 ---
 
